@@ -5,7 +5,8 @@ The Infernal Launcher Patch Tool is designed to help users easily generate patch
 - File and Folder Management:
 Drag-and-drop interface to add files or directories.
 Recursive folder inclusion: All files and subdirectories are added when a directory is selected.
-File exclusion: Automatically excludes index.php and index.html files, which are not required in patches.
+
+- File exclusion: Automatically excludes index.php and index.html files, which are not required in patches.
 Clear option to remove all files and directories.
 Patch Manifest Generation:
 
